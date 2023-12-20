@@ -1,0 +1,7 @@
+add_executable(B wine.c)
+add_executable(C brackets.c)
+add_executable(D buddy.c)
+add_executable(test test.c)
+add_executable(E whac-a-more.c)
+add_executable(F rotate.c)
+add_executable(G pour.c)

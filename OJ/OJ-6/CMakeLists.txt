@@ -1,0 +1,6 @@
+add_executable(OJ-6A OJ-6A.c)
+add_executable(OJ-6B OJ-6B.c)
+add_executable(OJ-6C OJ-6C.c)
+add_executable(OJ-6D OJ-6D.c)
+add_executable(OJ-6E OJ-6E.c)
+add_executable(OJ-6F OJ-6F.c)
