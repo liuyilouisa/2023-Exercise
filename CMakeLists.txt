@@ -5,3 +5,4 @@ set(CMAKE_C_STANDARD 99)
 
 # gcc hello.c -o hello
 add_subdirectory(OJ)
+add_subdirectory(Class)
