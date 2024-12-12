@@ -1,5 +1,0 @@
-add_executable(hello hello.c)
-add_subdirectory(OJ-6)
-add_subdirectory(OJ-1_5)
-add_subdirectory(OJ-7)
-add_subdirectory(OJ-8_10)

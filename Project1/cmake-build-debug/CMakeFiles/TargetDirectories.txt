@@ -1,5 +1,0 @@
-C:/Users/13584/CLionProjects/Project1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/13584/CLionProjects/Project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/13584/CLionProjects/Project1/cmake-build-debug/src/CMakeFiles/srs.dir
-C:/Users/13584/CLionProjects/Project1/cmake-build-debug/src/CMakeFiles/edit_cache.dir
-C:/Users/13584/CLionProjects/Project1/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
